@@ -145,3 +145,8 @@ error.log
 anykernel/
 gcc/
 gcc32/
+# Tech package directories
+#techpack/
+
+# Build log
+build.log
